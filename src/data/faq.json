@@ -1,0 +1,52 @@
+[
+  {
+    "id": "faq-001",
+    "question": "What makes Supplementals different from other supplement brands?",
+    "answer": "At Supplementals, we prioritize quality and transparency. All our products are manufactured in GMP-certified facilities, use premium bioavailable ingredients, and undergo rigorous third-party testing. We provide detailed information about ingredient sourcing, dosages, and scientific backing for all our formulations. Our commitment is to offer supplements that actually work and are safe for daily use."
+  },
+  {
+    "id": "faq-002",
+    "question": "Are your supplements tested for quality and purity?",
+    "answer": "Yes, absolutely! Every batch of our supplements undergoes comprehensive third-party testing for purity, potency, and contaminants. We test for heavy metals, microbial contamination, and verify that the actual ingredient amounts match what's on the label. Certificates of Analysis (COA) are available upon request for any of our products."
+  },
+  {
+    "id": "faq-003",
+    "question": "How should I store my supplements?",
+    "answer": "Most of our supplements should be stored in a cool, dry place away from direct sunlight and moisture. Keep bottles tightly closed when not in use. Some products, like probiotics, may require refrigeration after opening - this will be clearly indicated on the label. Avoid storing supplements in bathrooms where humidity levels are typically high."
+  },
+  {
+    "id": "faq-004",
+    "question": "Can I take multiple supplements together?",
+    "answer": "In most cases, our supplements can be taken together safely. However, certain combinations may affect absorption or interact with each other. For example, calcium can interfere with iron absorption, so they should be taken at different times. We recommend consulting with a healthcare professional before starting a new supplement regimen, especially if you're taking multiple products or have health conditions."
+  },
+  {
+    "id": "faq-005",
+    "question": "Are your products suitable for vegetarians or vegans?",
+    "answer": "We offer many vegetarian and vegan-friendly options. Each product page clearly indicates whether the supplement is suitable for vegetarians or vegans. Our plant-based options include herbal supplements, many mineral formulations, and select vitamin products. For Omega-3s and collagen, we also offer algae-based and plant-derived alternatives."
+  },
+  {
+    "id": "faq-006",
+    "question": "What is your return and refund policy?",
+    "answer": "We offer a 30-day satisfaction guarantee on all our products. If you're not completely satisfied with your purchase, you can return the unused portion for a full refund. Simply contact our customer service team with your order number, and we'll provide return instructions. Opened products can be returned if less than 25% has been used."
+  },
+  {
+    "id": "faq-007",
+    "question": "How long does shipping take?",
+    "answer": "We offer standard shipping (5-7 business days), express shipping (2-3 business days), and overnight shipping for most locations. Orders placed before 2 PM EST on business days are typically processed the same day. You'll receive a tracking number via email once your order ships. Free standard shipping is available on orders over $50."
+  },
+  {
+    "id": "faq-008",
+    "question": "Are your supplements safe to take with prescription medications?",
+    "answer": "While our supplements are made with safe, high-quality ingredients, some may interact with prescription medications. For example, Omega-3s can enhance blood-thinning medications, and St. John's Wort can interfere with many drugs. We strongly recommend consulting your healthcare provider or pharmacist before adding supplements to your routine if you're taking any medications."
+  },
+  {
+    "id": "faq-009",
+    "question": "Do your products contain any common allergens?",
+    "answer": "We clearly label all potential allergens on our product pages and packaging. Some products may contain or be processed in facilities that handle common allergens like soy, dairy, fish, shellfish, tree nuts, wheat, or eggs. Each product listing includes a complete allergen statement. If you have severe allergies, please review this information carefully or contact us for specific details."
+  },
+  {
+    "id": "faq-010",
+    "question": "What is the best time of day to take supplements?",
+    "answer": "The optimal timing varies by supplement type. Fat-soluble vitamins (A, D, E, K) and Omega-3s are best taken with meals containing healthy fats. B-vitamins and iron are best taken in the morning for energy support. Magnesium and calming herbs like Ashwagandha work well in the evening. Probiotics are typically most effective on an empty stomach. Specific timing recommendations are included on each product label."
+  }
+]

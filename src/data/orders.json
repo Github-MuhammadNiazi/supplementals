@@ -1,0 +1,403 @@
+[
+  {
+    "id": "ORD-2024-001",
+    "customerDetails": {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@email.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Main Street, Apt 4B",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-001",
+        "productName": "Complete Daily Multivitamin",
+        "price": 29.99,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800"
+      },
+      {
+        "productId": "prod-002",
+        "productName": "Omega-3 Fish Oil 1000mg",
+        "price": 24.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?w=800"
+      }
+    ],
+    "totalAmount": 84.97,
+    "totalItems": 3,
+    "status": "completed",
+    "dateOfPurchase": "2024-12-15T10:30:00Z"
+  },
+  {
+    "id": "ORD-2024-002",
+    "customerDetails": {
+      "firstName": "Sarah",
+      "lastName": "Johnson",
+      "email": "sarah.j@email.com",
+      "phone": "+1 (555) 234-5678",
+      "address": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90001",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-005",
+        "productName": "Ashwagandha Root Extract",
+        "price": 22.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1611241893603-3c359704e0ee?w=800"
+      },
+      {
+        "productId": "prod-004",
+        "productName": "Magnesium Glycinate 400mg",
+        "price": 19.99,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=800"
+      }
+    ],
+    "totalAmount": 62.97,
+    "totalItems": 3,
+    "status": "inprogress",
+    "dateOfPurchase": "2024-12-18T14:45:00Z"
+  },
+  {
+    "id": "ORD-2024-003",
+    "customerDetails": {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "m.brown@email.com",
+      "phone": "+1 (555) 345-6789",
+      "address": "789 Pine Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-009",
+        "productName": "Whey Protein Isolate",
+        "price": 49.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800"
+      }
+    ],
+    "totalAmount": 49.99,
+    "totalItems": 1,
+    "status": "pending",
+    "dateOfPurchase": "2024-12-20T09:15:00Z"
+  },
+  {
+    "id": "ORD-2024-004",
+    "customerDetails": {
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "email": "emily.davis@email.com",
+      "phone": "+1 (555) 456-7890",
+      "address": "321 Elm Road",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "77001",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-008",
+        "productName": "Turmeric Curcumin Complex",
+        "price": 27.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=800"
+      },
+      {
+        "productId": "prod-013",
+        "productName": "Collagen Peptides",
+        "price": 39.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800"
+      },
+      {
+        "productId": "prod-006",
+        "productName": "Probiotic 50 Billion CFU",
+        "price": 34.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=800"
+      }
+    ],
+    "totalAmount": 102.97,
+    "totalItems": 3,
+    "status": "completed",
+    "dateOfPurchase": "2024-12-10T16:20:00Z"
+  },
+  {
+    "id": "ORD-2024-005",
+    "customerDetails": {
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "d.wilson@email.com",
+      "phone": "+1 (555) 567-8901",
+      "address": "567 Maple Lane",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85001",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-003",
+        "productName": "Vitamin D3 5000 IU",
+        "price": 14.99,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1550572017-edd951aa8f72?w=800"
+      }
+    ],
+    "totalAmount": 29.98,
+    "totalItems": 2,
+    "status": "pending",
+    "dateOfPurchase": "2024-12-21T11:00:00Z"
+  },
+  {
+    "id": "ORD-2024-006",
+    "customerDetails": {
+      "firstName": "Jennifer",
+      "lastName": "Martinez",
+      "email": "jen.martinez@email.com",
+      "phone": "+1 (555) 678-9012",
+      "address": "890 Cedar Drive",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipCode": "19101",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-011",
+        "productName": "Elderberry Immune Support",
+        "price": 18.99,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=800"
+      },
+      {
+        "productId": "prod-007",
+        "productName": "Zinc Picolinate 50mg",
+        "price": 12.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=800"
+      }
+    ],
+    "totalAmount": 50.97,
+    "totalItems": 3,
+    "status": "completed",
+    "dateOfPurchase": "2024-12-08T13:30:00Z"
+  },
+  {
+    "id": "ORD-2024-007",
+    "customerDetails": {
+      "firstName": "Robert",
+      "lastName": "Anderson",
+      "email": "r.anderson@email.com",
+      "phone": "+1 (555) 789-0123",
+      "address": "234 Birch Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "78201",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-016",
+        "productName": "CoQ10 200mg",
+        "price": 32.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800"
+      },
+      {
+        "productId": "prod-002",
+        "productName": "Omega-3 Fish Oil 1000mg",
+        "price": 24.99,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?w=800"
+      }
+    ],
+    "totalAmount": 82.97,
+    "totalItems": 3,
+    "status": "inprogress",
+    "dateOfPurchase": "2024-12-19T08:45:00Z"
+  },
+  {
+    "id": "ORD-2024-008",
+    "customerDetails": {
+      "firstName": "Lisa",
+      "lastName": "Taylor",
+      "email": "lisa.t@email.com",
+      "phone": "+1 (555) 890-1234",
+      "address": "456 Willow Way",
+      "city": "San Diego",
+      "state": "CA",
+      "zipCode": "92101",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-010",
+        "productName": "B-Complex Vitamins",
+        "price": 16.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800"
+      },
+      {
+        "productId": "prod-012",
+        "productName": "Calcium + Vitamin D3",
+        "price": 15.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=800"
+      },
+      {
+        "productId": "prod-014",
+        "productName": "Iron + Vitamin C",
+        "price": 11.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800"
+      }
+    ],
+    "totalAmount": 44.97,
+    "totalItems": 3,
+    "status": "completed",
+    "dateOfPurchase": "2024-12-05T15:10:00Z"
+  },
+  {
+    "id": "ORD-2024-009",
+    "customerDetails": {
+      "firstName": "James",
+      "lastName": "Thomas",
+      "email": "j.thomas@email.com",
+      "phone": "+1 (555) 901-2345",
+      "address": "789 Spruce Court",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "75201",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-015",
+        "productName": "Milk Thistle Extract",
+        "price": 17.99,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?w=800"
+      }
+    ],
+    "totalAmount": 35.98,
+    "totalItems": 2,
+    "status": "pending",
+    "dateOfPurchase": "2024-12-22T10:20:00Z"
+  },
+  {
+    "id": "ORD-2024-010",
+    "customerDetails": {
+      "firstName": "Amanda",
+      "lastName": "Garcia",
+      "email": "a.garcia@email.com",
+      "phone": "+1 (555) 012-3456",
+      "address": "321 Aspen Boulevard",
+      "city": "San Jose",
+      "state": "CA",
+      "zipCode": "95101",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-001",
+        "productName": "Complete Daily Multivitamin",
+        "price": 29.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800"
+      },
+      {
+        "productId": "prod-005",
+        "productName": "Ashwagandha Root Extract",
+        "price": 22.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1611241893603-3c359704e0ee?w=800"
+      },
+      {
+        "productId": "prod-008",
+        "productName": "Turmeric Curcumin Complex",
+        "price": 27.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=800"
+      }
+    ],
+    "totalAmount": 80.97,
+    "totalItems": 3,
+    "status": "inprogress",
+    "dateOfPurchase": "2024-12-17T12:00:00Z"
+  },
+  {
+    "id": "ORD-2024-011",
+    "customerDetails": {
+      "firstName": "Christopher",
+      "lastName": "Lee",
+      "email": "chris.lee@email.com",
+      "phone": "+1 (555) 123-7890",
+      "address": "654 Redwood Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "73301",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-009",
+        "productName": "Whey Protein Isolate",
+        "price": 49.99,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800"
+      },
+      {
+        "productId": "prod-013",
+        "productName": "Collagen Peptides",
+        "price": 39.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800"
+      }
+    ],
+    "totalAmount": 139.97,
+    "totalItems": 3,
+    "status": "completed",
+    "dateOfPurchase": "2024-12-12T09:30:00Z"
+  },
+  {
+    "id": "ORD-2024-012",
+    "customerDetails": {
+      "firstName": "Michelle",
+      "lastName": "Robinson",
+      "email": "m.robinson@email.com",
+      "phone": "+1 (555) 234-8901",
+      "address": "987 Sequoia Lane",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zipCode": "32099",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "productId": "prod-004",
+        "productName": "Magnesium Glycinate 400mg",
+        "price": 19.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=800"
+      }
+    ],
+    "totalAmount": 19.99,
+    "totalItems": 1,
+    "status": "pending",
+    "dateOfPurchase": "2024-12-23T14:15:00Z"
+  }
+]

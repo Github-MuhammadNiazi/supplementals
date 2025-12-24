@@ -1,0 +1,414 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Complete Daily Multivitamin",
+    "category": "multivitamins",
+    "price": 29.99,
+    "description": "Comprehensive daily multivitamin with 23 essential vitamins and minerals for overall health and wellness.",
+    "longDescription": "Our Complete Daily Multivitamin is a premium formula designed to fill nutritional gaps in your diet. It contains a balanced blend of 23 essential vitamins and minerals, including Vitamin A, C, D3, E, K, and the full B-complex family. Each tablet is carefully formulated to support immune function, energy metabolism, bone health, and cognitive performance. Made with high-quality, bioavailable ingredients for maximum absorption.",
+    "benefits": [
+      "Supports immune system function",
+      "Promotes energy and vitality",
+      "Supports bone and muscle health",
+      "Enhances cognitive function",
+      "Fills nutritional gaps in diet"
+    ],
+    "ingredients": [
+      "Vitamin A (as Beta Carotene) 900mcg",
+      "Vitamin C (as Ascorbic Acid) 90mg",
+      "Vitamin D3 (as Cholecalciferol) 50mcg",
+      "Vitamin E (as d-Alpha Tocopherol) 15mg",
+      "Vitamin K 120mcg",
+      "Thiamin (B1) 1.2mg",
+      "Riboflavin (B2) 1.3mg",
+      "Niacin (B3) 16mg",
+      "Vitamin B6 1.7mg",
+      "Folate 400mcg",
+      "Vitamin B12 2.4mcg",
+      "Biotin 30mcg",
+      "Pantothenic Acid 5mg",
+      "Calcium 200mg",
+      "Iron 18mg",
+      "Magnesium 100mg",
+      "Zinc 11mg",
+      "Selenium 55mcg",
+      "Copper 0.9mg",
+      "Manganese 2.3mg",
+      "Chromium 35mcg",
+      "Molybdenum 45mcg",
+      "Potassium 80mg"
+    ],
+    "dosage": "Take 1 tablet daily with food, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800",
+    "isBestSeller": true,
+    "stock": 150
+  },
+  {
+    "id": "prod-002",
+    "name": "Omega-3 Fish Oil 1000mg",
+    "category": "omega",
+    "price": 24.99,
+    "description": "Pure omega-3 fish oil softgels sourced from wild-caught fish for heart and brain health.",
+    "longDescription": "Our premium Omega-3 Fish Oil is sourced from wild-caught, cold-water fish and purified using molecular distillation to remove contaminants. Each softgel provides 1000mg of fish oil with 300mg EPA and 200mg DHA - the essential fatty acids your body needs but cannot produce on its own. These omega-3s support cardiovascular health, brain function, joint mobility, and healthy inflammatory response.",
+    "benefits": [
+      "Supports heart and cardiovascular health",
+      "Promotes brain function and mental clarity",
+      "Supports joint health and mobility",
+      "Helps maintain healthy triglyceride levels",
+      "Supports healthy skin and eyes"
+    ],
+    "ingredients": [
+      "Fish Oil Concentrate 1000mg",
+      "EPA (Eicosapentaenoic Acid) 300mg",
+      "DHA (Docosahexaenoic Acid) 200mg",
+      "Vitamin E (as d-Alpha Tocopherol) 10IU"
+    ],
+    "dosage": "Take 2 softgels daily with meals, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?w=800",
+    "isBestSeller": true,
+    "stock": 200
+  },
+  {
+    "id": "prod-003",
+    "name": "Vitamin D3 5000 IU",
+    "category": "multivitamins",
+    "price": 14.99,
+    "description": "High-potency Vitamin D3 for bone health, immune support, and mood enhancement.",
+    "longDescription": "Vitamin D3, also known as the 'sunshine vitamin,' is essential for numerous bodily functions. Our high-potency 5000 IU formula provides optimal daily support for those who may not get adequate sun exposure. Vitamin D3 is crucial for calcium absorption, bone mineralization, immune function, and mood regulation. This bioavailable form of Vitamin D is easy to absorb and utilize by the body.",
+    "benefits": [
+      "Supports strong bones and teeth",
+      "Enhances immune system function",
+      "Promotes positive mood and well-being",
+      "Supports muscle function",
+      "Aids calcium absorption"
+    ],
+    "ingredients": [
+      "Vitamin D3 (as Cholecalciferol) 125mcg (5000 IU)",
+      "Extra Virgin Olive Oil"
+    ],
+    "dosage": "Take 1 softgel daily with food, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1550572017-edd951aa8f72?w=800",
+    "isBestSeller": false,
+    "stock": 300
+  },
+  {
+    "id": "prod-004",
+    "name": "Magnesium Glycinate 400mg",
+    "category": "minerals",
+    "price": 19.99,
+    "description": "Highly absorbable magnesium glycinate for relaxation, sleep support, and muscle recovery.",
+    "longDescription": "Magnesium is involved in over 300 enzymatic reactions in the body, yet many people don't get enough from diet alone. Our Magnesium Glycinate uses the glycinate form, which is chelated to the amino acid glycine for enhanced absorption and gentle digestion. This form is particularly beneficial for promoting relaxation, supporting quality sleep, easing muscle tension, and maintaining healthy magnesium levels.",
+    "benefits": [
+      "Promotes relaxation and calm",
+      "Supports quality sleep",
+      "Helps with muscle recovery and cramps",
+      "Supports bone health",
+      "Gentle on the stomach"
+    ],
+    "ingredients": [
+      "Magnesium (as Magnesium Glycinate) 400mg"
+    ],
+    "dosage": "Take 2 capsules daily, preferably in the evening with food.",
+    "imageUrl": "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=800",
+    "isBestSeller": true,
+    "stock": 180
+  },
+  {
+    "id": "prod-005",
+    "name": "Ashwagandha Root Extract",
+    "category": "herbal",
+    "price": 22.99,
+    "description": "Organic ashwagandha root extract standardized to 5% withanolides for stress relief and energy.",
+    "longDescription": "Ashwagandha (Withania somnifera) is a powerful adaptogenic herb used for centuries in Ayurvedic medicine. Our organic extract is standardized to contain 5% withanolides, the active compounds responsible for its stress-relieving properties. This potent formula helps the body adapt to stress, supports balanced cortisol levels, promotes mental clarity, and enhances overall vitality and well-being.",
+    "benefits": [
+      "Helps body adapt to stress",
+      "Supports balanced cortisol levels",
+      "Promotes mental clarity and focus",
+      "Enhances energy and vitality",
+      "Supports healthy sleep patterns"
+    ],
+    "ingredients": [
+      "Organic Ashwagandha Root Extract 600mg",
+      "Standardized to 5% Withanolides (30mg)"
+    ],
+    "dosage": "Take 1 capsule twice daily with meals, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1611241893603-3c359704e0ee?w=800",
+    "isBestSeller": true,
+    "stock": 120
+  },
+  {
+    "id": "prod-006",
+    "name": "Probiotic 50 Billion CFU",
+    "category": "probiotics",
+    "price": 34.99,
+    "description": "Multi-strain probiotic with 50 billion CFU and 12 strains for digestive and immune health.",
+    "longDescription": "A healthy gut is the foundation of overall wellness. Our advanced probiotic formula delivers 50 billion colony-forming units (CFU) of 12 carefully selected probiotic strains. These beneficial bacteria support digestive health, nutrient absorption, immune function, and even mood. Our delayed-release capsules ensure the probiotics survive stomach acid and reach your intestines where they're needed most.",
+    "benefits": [
+      "Supports digestive health and regularity",
+      "Enhances nutrient absorption",
+      "Strengthens immune system",
+      "Helps maintain healthy gut flora",
+      "Supports mood and mental well-being"
+    ],
+    "ingredients": [
+      "Probiotic Blend 50 Billion CFU",
+      "Lactobacillus acidophilus",
+      "Lactobacillus plantarum",
+      "Lactobacillus rhamnosus",
+      "Lactobacillus paracasei",
+      "Lactobacillus casei",
+      "Bifidobacterium lactis",
+      "Bifidobacterium longum",
+      "Bifidobacterium bifidum",
+      "Bifidobacterium breve",
+      "Lactobacillus gasseri",
+      "Lactobacillus salivarius",
+      "Lactobacillus bulgaricus"
+    ],
+    "dosage": "Take 1 capsule daily on an empty stomach, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=800",
+    "isBestSeller": false,
+    "stock": 100
+  },
+  {
+    "id": "prod-007",
+    "name": "Zinc Picolinate 50mg",
+    "category": "minerals",
+    "price": 12.99,
+    "description": "Highly bioavailable zinc picolinate for immune support, skin health, and enzyme function.",
+    "longDescription": "Zinc is an essential trace mineral that plays a vital role in immune function, wound healing, protein synthesis, and DNA synthesis. Our Zinc Picolinate formula uses the picolinate form, which is chelated to picolinic acid for superior absorption compared to other forms. This high-potency 50mg dose provides robust support for immune health, healthy skin, and optimal enzyme function.",
+    "benefits": [
+      "Supports immune system function",
+      "Promotes healthy skin and wound healing",
+      "Supports protein and DNA synthesis",
+      "Essential for enzyme function",
+      "Supports sense of taste and smell"
+    ],
+    "ingredients": [
+      "Zinc (as Zinc Picolinate) 50mg"
+    ],
+    "dosage": "Take 1 capsule daily with food, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=800",
+    "isBestSeller": false,
+    "stock": 250
+  },
+  {
+    "id": "prod-008",
+    "name": "Turmeric Curcumin Complex",
+    "category": "herbal",
+    "price": 27.99,
+    "description": "Turmeric with 95% curcuminoids and BioPerine for enhanced absorption and anti-inflammatory support.",
+    "longDescription": "Turmeric has been used for thousands of years in traditional medicine for its powerful anti-inflammatory and antioxidant properties. Our Turmeric Curcumin Complex is standardized to contain 95% curcuminoids, the active compounds in turmeric. We've added BioPerine (black pepper extract) to enhance absorption by up to 2000%. This potent formula supports joint health, reduces inflammation, and provides antioxidant protection.",
+    "benefits": [
+      "Supports healthy inflammatory response",
+      "Provides powerful antioxidant protection",
+      "Promotes joint health and mobility",
+      "Supports cardiovascular health",
+      "Enhanced absorption with BioPerine"
+    ],
+    "ingredients": [
+      "Turmeric Root Extract 1000mg",
+      "Standardized to 95% Curcuminoids (950mg)",
+      "BioPerine (Black Pepper Extract) 10mg"
+    ],
+    "dosage": "Take 1 capsule twice daily with meals, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=800",
+    "isBestSeller": true,
+    "stock": 140
+  },
+  {
+    "id": "prod-009",
+    "name": "Whey Protein Isolate",
+    "category": "protein",
+    "price": 49.99,
+    "description": "Pure whey protein isolate with 25g protein per serving for muscle building and recovery.",
+    "longDescription": "Our Whey Protein Isolate is the gold standard for high-quality protein supplementation. Each serving delivers 25 grams of pure protein with minimal fat and carbohydrates. Using advanced micro-filtration technology, we've created a protein powder that's fast-absorbing and easy to digest. Ideal for athletes, fitness enthusiasts, and anyone looking to increase their protein intake for muscle building, recovery, and weight management.",
+    "benefits": [
+      "Supports muscle growth and repair",
+      "Fast-absorbing for post-workout recovery",
+      "Low in fat and carbohydrates",
+      "Complete amino acid profile",
+      "Easy to mix and great taste"
+    ],
+    "ingredients": [
+      "Whey Protein Isolate 25g",
+      "BCAAs (naturally occurring) 5.5g",
+      "Leucine 2.5g",
+      "Natural Vanilla Flavor",
+      "Stevia Leaf Extract"
+    ],
+    "dosage": "Mix 1 scoop (30g) with 8-10 oz of water or milk. Consume within 30 minutes post-workout or as a protein-rich snack.",
+    "imageUrl": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800",
+    "isBestSeller": true,
+    "stock": 80
+  },
+  {
+    "id": "prod-010",
+    "name": "B-Complex Vitamins",
+    "category": "multivitamins",
+    "price": 16.99,
+    "description": "Complete B-complex with all 8 essential B vitamins for energy metabolism and nervous system support.",
+    "longDescription": "B vitamins are essential for converting food into energy and maintaining a healthy nervous system. Our B-Complex formula contains all 8 essential B vitamins in their active, bioavailable forms. This comprehensive formula supports energy production, cognitive function, red blood cell formation, and helps combat fatigue and stress. Perfect for those with demanding lifestyles or increased B vitamin needs.",
+    "benefits": [
+      "Supports energy metabolism",
+      "Promotes healthy nervous system",
+      "Supports cognitive function",
+      "Helps reduce fatigue and tiredness",
+      "Supports red blood cell formation"
+    ],
+    "ingredients": [
+      "Thiamin (B1) 100mg",
+      "Riboflavin (B2) 100mg",
+      "Niacin (B3) 100mg",
+      "Pantothenic Acid (B5) 100mg",
+      "Vitamin B6 100mg",
+      "Biotin (B7) 1000mcg",
+      "Folate (as Methylfolate) 800mcg",
+      "Vitamin B12 (as Methylcobalamin) 1000mcg"
+    ],
+    "dosage": "Take 1 capsule daily with food, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800",
+    "isBestSeller": false,
+    "stock": 190
+  },
+  {
+    "id": "prod-011",
+    "name": "Elderberry Immune Support",
+    "category": "herbal",
+    "price": 18.99,
+    "description": "Organic elderberry extract with vitamin C and zinc for powerful immune system support.",
+    "longDescription": "Elderberry has been used for centuries as a natural remedy to support immune health. Our Elderberry Immune Support combines organic black elderberry extract with vitamin C and zinc for a synergistic immune-boosting formula. Rich in antioxidants and anthocyanins, this powerful blend helps strengthen your body's natural defenses, especially during seasonal challenges. Perfect for year-round immune support.",
+    "benefits": [
+      "Strengthens immune system",
+      "Rich in antioxidants",
+      "Supports respiratory health",
+      "Helps fight seasonal challenges",
+      "Synergistic formula with Vitamin C and Zinc"
+    ],
+    "ingredients": [
+      "Organic Black Elderberry Extract 600mg",
+      "Vitamin C (as Ascorbic Acid) 250mg",
+      "Zinc (as Zinc Citrate) 15mg"
+    ],
+    "dosage": "Take 2 capsules daily with food, or as directed by your healthcare professional. May increase to 4 capsules daily during times of immune challenge.",
+    "imageUrl": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=800",
+    "isBestSeller": false,
+    "stock": 160
+  },
+  {
+    "id": "prod-012",
+    "name": "Calcium + Vitamin D3",
+    "category": "minerals",
+    "price": 15.99,
+    "description": "Calcium citrate with Vitamin D3 for optimal calcium absorption and bone health support.",
+    "longDescription": "Strong bones require both calcium and vitamin D working together. Our Calcium + Vitamin D3 formula combines highly absorbable calcium citrate with vitamin D3 to ensure your body can effectively utilize the calcium. This essential duo supports bone density, helps prevent bone loss, and promotes dental health. Ideal for women, older adults, and anyone looking to maintain strong, healthy bones.",
+    "benefits": [
+      "Supports bone density and strength",
+      "Helps prevent bone loss",
+      "Promotes dental health",
+      "Vitamin D3 enhances calcium absorption",
+      "Supports muscle function"
+    ],
+    "ingredients": [
+      "Calcium (as Calcium Citrate) 600mg",
+      "Vitamin D3 (as Cholecalciferol) 25mcg (1000 IU)"
+    ],
+    "dosage": "Take 2 tablets daily with food, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=800",
+    "isBestSeller": false,
+    "stock": 220
+  },
+  {
+    "id": "prod-013",
+    "name": "Collagen Peptides",
+    "category": "protein",
+    "price": 39.99,
+    "description": "Grass-fed hydrolyzed collagen peptides for skin, hair, nails, and joint support.",
+    "longDescription": "Collagen is the most abundant protein in your body, providing structure to skin, hair, nails, bones, and joints. As we age, collagen production naturally declines. Our Collagen Peptides are sourced from grass-fed, pasture-raised bovine and hydrolyzed for easy absorption. This unflavored powder mixes easily into any beverage and provides the building blocks your body needs to maintain youthful skin, strong nails, and healthy joints.",
+    "benefits": [
+      "Promotes skin elasticity and hydration",
+      "Strengthens hair and nails",
+      "Supports joint health and mobility",
+      "Supports gut health",
+      "Easy to mix and flavorless"
+    ],
+    "ingredients": [
+      "Hydrolyzed Bovine Collagen Peptides 10g",
+      "Type I Collagen",
+      "Type III Collagen"
+    ],
+    "dosage": "Mix 1 scoop (10g) into 8 oz of hot or cold liquid. Can be added to coffee, smoothies, or recipes. Take daily for best results.",
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800",
+    "isBestSeller": true,
+    "stock": 95
+  },
+  {
+    "id": "prod-014",
+    "name": "Iron + Vitamin C",
+    "category": "minerals",
+    "price": 11.99,
+    "description": "Gentle iron supplement with Vitamin C for enhanced absorption and energy support.",
+    "longDescription": "Iron is essential for oxygen transport in the blood and energy production. Our Iron + Vitamin C formula uses iron bisglycinate, a gentle form that's easy on the stomach and highly absorbable. We've added Vitamin C to further enhance iron absorption and provide antioxidant benefits. This formula is ideal for those with increased iron needs, including women, vegetarians, and athletes.",
+    "benefits": [
+      "Supports healthy iron levels",
+      "Promotes energy and reduces fatigue",
+      "Vitamin C enhances iron absorption",
+      "Gentle on the stomach",
+      "Supports oxygen transport in blood"
+    ],
+    "ingredients": [
+      "Iron (as Iron Bisglycinate) 25mg",
+      "Vitamin C (as Ascorbic Acid) 200mg"
+    ],
+    "dosage": "Take 1 capsule daily with food, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800",
+    "isBestSeller": false,
+    "stock": 175
+  },
+  {
+    "id": "prod-015",
+    "name": "Milk Thistle Extract",
+    "category": "herbal",
+    "price": 17.99,
+    "description": "Standardized milk thistle extract with 80% silymarin for liver health and detoxification support.",
+    "longDescription": "Milk Thistle (Silybum marianum) has been used for over 2,000 years to support liver health. Our extract is standardized to contain 80% silymarin, the powerful complex of flavonoids responsible for milk thistle's liver-protective properties. This formula supports healthy liver function, aids natural detoxification processes, and provides antioxidant protection for liver cells. Ideal for those seeking to support their liver health naturally.",
+    "benefits": [
+      "Supports healthy liver function",
+      "Aids natural detoxification",
+      "Provides antioxidant protection",
+      "Supports regeneration of liver cells",
+      "Promotes overall liver health"
+    ],
+    "ingredients": [
+      "Milk Thistle Seed Extract 450mg",
+      "Standardized to 80% Silymarin (360mg)"
+    ],
+    "dosage": "Take 1 capsule twice daily with meals, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?w=800",
+    "isBestSeller": false,
+    "stock": 130
+  },
+  {
+    "id": "prod-016",
+    "name": "CoQ10 200mg",
+    "category": "multivitamins",
+    "price": 32.99,
+    "description": "High-potency Coenzyme Q10 for heart health, cellular energy, and antioxidant protection.",
+    "longDescription": "Coenzyme Q10 (CoQ10) is a vital compound found in every cell of your body, essential for energy production and antioxidant protection. Our high-potency 200mg formula uses the bioavailable ubiquinone form suspended in oil for optimal absorption. CoQ10 levels naturally decline with age and certain medications, making supplementation beneficial for cardiovascular health, energy production, and healthy aging.",
+    "benefits": [
+      "Supports heart and cardiovascular health",
+      "Essential for cellular energy production",
+      "Provides powerful antioxidant protection",
+      "Supports healthy aging",
+      "May help with energy and stamina"
+    ],
+    "ingredients": [
+      "Coenzyme Q10 (Ubiquinone) 200mg",
+      "Medium Chain Triglycerides (MCT Oil)"
+    ],
+    "dosage": "Take 1 softgel daily with food, or as directed by your healthcare professional.",
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800",
+    "isBestSeller": false,
+    "stock": 85
+  }
+]
